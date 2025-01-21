@@ -1,4 +1,5 @@
-
+const apiKey = 'c7562835294de58dd46d61d80221e8ea';
+const API_KEY = '8HkYL5pH0JqxRfxJ1NLapw==NPyNjcCpQwL7sKRU';
 let cityTimeInterval; 
 const cityList = document.getElementById('city-list');
 
